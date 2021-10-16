@@ -1,0 +1,74 @@
+body {
+    font-family: "Lato", sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+hr {
+    border-top: dashed rgb(242, 147, 45);
+}
+
+
+.push-down {
+    margin-top: 30px;
+}
+ul  {
+    list-style-image: url("../images/checkbox.gif");
+}
+
+.over {
+    text-decoration: wavy underline #ff1c1c;
+  }
+
+.sidenav {
+    text-align: center;
+    color :#f1f1f1;
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #606e6f;
+    overflow-x: hidden;
+    padding-top: 60px;
+  }
+
+
+.img-pic {
+    width: 150px;
+    border-radius: 80%;
+    margin-bottom: 30px;
+  }
+
+a.p-web {
+    color: #f1f1f1;
+    text-decoration: none;
+  }
+
+.main {
+    margin-top: 0;
+    margin-left: 250px; /* Same as the width of the sidenav */
+    padding: 10px 10px ;
+    background-color: #F2F4F4 ;
+  }
+  
+.company-images {
+    width: 150px;
+  }
+
+h3.main {
+      font-size: 30px;
+  }
+
+ul.no-design {
+    list-style: none;
+}   
+
+ul.bold-text {
+    font-weight: bold;
+}
+
+.divider-gradient{
+   background: linear-gradient(to left, #F2F4F4, rgb(214, 214, 214));
+}
