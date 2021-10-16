@@ -24,7 +24,7 @@ ul  {
     text-align: center;
     color :#f1f1f1;
     height: 100%;
-    width: 20%;
+    width: 270px;
     position: fixed;
     z-index: 1;
     top: 0;
@@ -48,7 +48,7 @@ a.p-web {
 
 .main {
     margin-top: 0;
-    margin-left: 250px; /* Same as the width of the sidenav */
+    margin-left: 270px; /* Same as the width of the sidenav */
     padding: 10px 10px ;
     background-color: #F2F4F4 ;
   }
@@ -72,3 +72,4 @@ ul.bold-text {
 .divider-gradient{
    background: linear-gradient(to left, #F2F4F4, rgb(214, 214, 214));
 }
+
