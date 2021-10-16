@@ -69,7 +69,12 @@ ul.bold-text {
     font-weight: bold;
 }
 
-.divider-gradient{
+.divider-gradient-gray{
    background: linear-gradient(to left, #F2F4F4, rgb(214, 214, 214));
 }
+
+.divider-gradient-red{
+  background: linear-gradient(to left, #fa7f7f, rgb(247, 200, 200));
+}
+
 
